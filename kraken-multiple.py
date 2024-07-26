@@ -5,7 +5,6 @@ import os
 import argparse
 import numpy as np
 import pandas as pd
-#from collections import defaultdict
 
 '''
 writing a script to take kraken2 summary files and make one file in the format 
